@@ -22,7 +22,7 @@ different outcomes.
 ### Installation
 
 1. Clone the repo `git clone git@`
-2. Install the requirements `pip install -r requirements.py`
+2. Install the requirements `pip install -r requirements.txt`
 
 ### Team Members
 
